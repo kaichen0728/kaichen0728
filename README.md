@@ -1,4 +1,4 @@
-**Personal Intro:**
+## Personal Intro
 
 Hi there! My name is *Kai Chen*. 
 
@@ -8,17 +8,13 @@ I'm very grateful for my institution. SUSTech is a representative of innovative 
 
 Imersed in a vivid environment, I'm committed to learning broadly and making my own contribution to our world.
 
-//
+## My Current Learning Interests
 
-**My Current Learning Interests:**
+Mathematics: especially Real Analysis, Probability and Statistics;
 
-Mathematics, especially Real Analysis, Probability and Statistics;
+Computer Science: especially Machine Learning and Deep Learning;
 
-Computer Science, especially Machine Learning and Deep Learning.
-
-//
-
-**Coming Activities:**
+## Coming Activities
 
 I'm going to LMH Summer School Program held by Lady Margaret Hall of the University of Oxford this summer!
 
