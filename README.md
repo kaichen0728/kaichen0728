@@ -16,6 +16,6 @@ Computer Science: especially Machine Learning and Deep Learning;
 
 ## Coming Activities
 
-I'm going to LMH Summer School Program held by Lady Margaret Hall of the University of Oxford this summer!
+I'm going to *LMH Summer School Program* held by Lady Margaret Hall of the University of Oxford this summer!
 
 My course will be: Advanced Artificial Intelligence: Deep Unsupervised Learning.
