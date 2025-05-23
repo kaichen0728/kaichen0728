@@ -1,6 +1,8 @@
 ## Personal Intro
 
-Hi there! My name is *Kai Chen*. 
+Hi there :)
+
+My name is *Kai Chen*. 
 
 I'm currently studying Mathematics at Southern University of Scicence and Technology(SUSTech). I'm more than delighted to share some learning records of mine here.
 
@@ -10,12 +12,12 @@ Imersed in a vivid environment, I'm committed to learning broadly and making my 
 
 ## My Current Learning Interests
 
-Mathematics: especially Real Analysis, Probability and Statistics;
+Mathematics: Real Analysis, Probability and Statistics;
 
-Computer Science: especially Machine Learning and Deep Learning;
+Computer Science: Machine Learning & Deep Learning;
 
 ## Coming Activities
 
-I'm going to *LMH Summer School Program* held by Lady Margaret Hall of the University of Oxford this summer!
+I'm going to *LMH Summer School Program* (Session 1) held by Lady Margaret Hall of the University of Oxford this summer!
 
 My course will be: *Advanced Artificial Intelligence: Deep Unsupervised Learning*.
