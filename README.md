@@ -8,7 +8,7 @@ I'm currently studying at the [Department of Mathematics](https://math.sustech.e
 
 ## Current Learning Interests
 
-Mathematics: Real Analysis, Probability & Statistics;
+Mathematics: Analysis, Probability & Statistics;
 
 Computer Science: Machine Learning & Deep Learning;
 
