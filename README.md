@@ -6,7 +6,7 @@ My name is **Kai Chen**.
 
 I'm currently studying at the [Department of Mathematics](https://math.sustech.edu.cn) at [Southern University of Scicence and Technology(SUSTech)](https://www.sustech.edu.cn).
 
-## Current Learning Interests
+## Current Interests
 
 Mathematics: Analysis, Probability & Statistics;
 
